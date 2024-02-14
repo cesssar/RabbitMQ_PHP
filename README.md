@@ -20,21 +20,18 @@ Instalar o PHP: https://www.php.net/
 
 ```
 docker-compose up -d 
-
 ```
 
 ## 🚀 Iniciando os robôs que recebem mensagens
 
 ```
 php receber.php
-
 ```
 
 ## 🚀 Enviando mensagem para todas as filas (queue)
 
 ```
-php enviar.py
-
+php enviar.php
 ```
 
-<img src="https://github.com/cesssar/RabbitMQ_Python/blob/main/Screenshot.png" />
+<img src="https://github.com/cesssar/RabbitMQ_PHP/blob/main/Screenshot.png" />
